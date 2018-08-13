@@ -21,7 +21,7 @@ src/app/match/components/layout/layout.component.html(11,70): : Property 'counts
 PROJECT_ROOT = '/home/Users/marcus/Desktop/my-angular-project/'
 ```
 
-3. Run the program **main.py** from the terminal (This will edit your **.ts** files)
+3. Run the program **main.py** from the terminal (This will edit your components and change the private variables to public).
 ```
 python3 main.py
 ```
