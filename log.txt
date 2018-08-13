@@ -1,0 +1,6 @@
+ERROR in src/app/auth/components/login.component.html(16,119): : Expected 0 arguments, but got 1.
+src/app/auth/components/login.component.html(22,131): : Expected 0 arguments, but got 1.
+src/app/match/components/layout/layout.component.html(6,67): : Property 'counts' is private and only accessible within class 'LayoutComponent'.
+src/app/match/components/layout/layout.component.html(6,67): : Property 'counts' is private and only accessible within class 'LayoutComponent'.
+src/app/match/components/layout/layout.component.html(11,70): : Property 'counts' is private and only accessible within class 'LayoutComponent'.
+src/app/match/components/layout/layout.component.html(11,70): : Property 'counts' is private and only accessible within class 'LayoutComponent'.
