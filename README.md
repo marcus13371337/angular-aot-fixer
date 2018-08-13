@@ -3,7 +3,7 @@ Do you have a bunch of private component-variables (which you created back at th
 Don't worry. Run this script and your application will soon compile!
 
 # Usage
-0. Make sure to have your project backed up before using this script. This script also assumes that your components and your templates has the same file name (except the file endings). **Use at own risk**.
+0. Make sure to have your project backed up before using this script. This script assumes that your components and your templates has the same file name (except the file endings which should be **.ts** and **.html** respectively). **Use at own risk**.
 1. Try to compile your program. Copy the error-messages and paste them in the **log.txt** file.
 *Example*:
 ```
